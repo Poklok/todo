@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 django = "*"
 social-auth-app-django = "*"
+djangorestframework = "*"
+router = "*"
 
 [dev-packages]
 
